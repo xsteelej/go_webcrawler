@@ -23,7 +23,7 @@ ok  	xsteelej/webcrawler/internal/crawler	0.088s	coverage: 93.8% of statements
 ```
 cd cmd/webcrawler
 go build -o webcrawler main.go
-./webcrawler -u https://www.monzo.com
+./webcrawler -u http://test.com
 ```
 
 ## Description of Design
