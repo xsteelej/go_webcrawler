@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Absolute URLs</h2>
+<p><a href="https://www.w3.org/">W3C</a></p>
+<h2>Relative URLs</h2>
+<p><a href="html_images.asp">HTML Images</a></p>
+<p><a href="/css/default.asp">CSS Tutorial</a></p>
+<p><a href="https://www.google.com">CSS Tutorial</a></p>
+<p><a href="../search">Go Back And Search</a></p>
+<p><a href="#h2">Link to heading 2</a></p>
+</body>
+</html>
