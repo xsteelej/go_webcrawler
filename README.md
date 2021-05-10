@@ -28,7 +28,7 @@ go build -o webcrawler main.go
 
 ## Description of Design
 
-![alt text](https://github.com/xsteelej/go_webcrawler/blob/main/docs/diagram.png?raw=true)
+![alt text](https://github.com/xsteelej/go_webcrawler/blob/master/docs/diagram.png?raw=true)
 
 ### Package: ```crawler```
 
